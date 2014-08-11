@@ -1,0 +1,6 @@
+.table-hover tbody tr:hover > td {
+	cursor: pointer;
+	cursor: hand;
+}
+
+.page-header { font-family: 'Play', sans-serif; }
